@@ -15,7 +15,7 @@
                         <div id="rev_slider_1" class="rev_slider tp-overflow-hidden fullscreenbanner" data-version="5.4.7" style="display:none">
                             <a href="#welcome" class="slider-scroll-down">اقرأ المزيد</a>
                             <ul>
-                                <li data-transition="fade" data-thumb="./assets/images/icons/1.png" data-title="عملية التخزين" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="./assets/images/icons/1.png">
+                                <li data-transition="fade" data-thumb="site/assets/images/icons/1.png" data-title="عملية التخزين" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="site/assets/images/icons/1.png">
                                     <img alt="Joo - Niche Multi-Purpose HTML Template" class="rev-slidebg" src="site/assets/images/slider/4.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone"
                                          data-scalestart="100" data-scaleend="115" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="15">
                                     <div class="tp-caption tp-resizeme small_text top" data-x="right" data-hoffset="['405','405','0','0']" data-y="center" data-voffset="['-152','-152','-152','-152']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -34,7 +34,7 @@
                                     </a>
                                 </li>
                                 <!-- slide -->
-                                <li data-transition="fade" data-thumb="./assets/images/icons/2.png" data-title="الشحن الجوي" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="./assets/images/icons/2.png">
+                                <li data-transition="fade" data-thumb="site/assets/images/icons/2.png" data-title="الشحن الجوي" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="site/assets/images/icons/2.png">
                                     <img alt="Joo - Niche Multi-Purpose HTML Template" class="rev-slidebg" src="site/assets/images/slider/3.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone"
                                          data-scalestart="100" data-scaleend="115" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="15">
                                     <div class="tp-caption tp-resizeme small_text top" data-x="right" data-hoffset="['405','405','0','0']" data-y="center" data-voffset="['-152','-152','-152','-152']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -53,7 +53,7 @@
                                     </a>
                                 </li>
                                 <!-- slide -->
-                                <li data-transition="fade" data-thumb="./assets/images/icons/3.png" data-title="الشحن البحري" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="./assets/images/icons/3.png">
+                                <li data-transition="fade" data-thumb="site/assets/images/icons/3.png" data-title="الشحن البحري" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="site/assets/images/icons/3.png">
                                     <img alt="Joo - Niche Multi-Purpose HTML Template" class="rev-slidebg" src="site/assets/images/slider/2.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone"
                                          data-scalestart="100" data-scaleend="115" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="15">
                                     <div class="tp-caption tp-resizeme small_text top" data-x="right" data-hoffset="['405','405','0','0']" data-y="center" data-voffset="['-152','-152','-152','-152']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"
@@ -72,7 +72,7 @@
                                     </a>
                                 </li>
                                 <!-- slide -->
-                                <li data-transition="fade" data-thumb="./assets/images/icons/4.png" data-title="النقل البري" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="./assets/images/icons/4.png">
+                                <li data-transition="fade" data-thumb="site/assets/images/icons/4.png" data-title="النقل البري" data-param1="هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة." data-param2="site/assets/images/icons/4.png">
                                     <img alt="Joo - Niche Multi-Purpose HTML Template" class="rev-slidebg" src="site/assets/images/slider/1.png" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-kenburns="off" data-duration="30000" data-ease="Linear.easeNone"
                                          data-scalestart="100" data-scaleend="115" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0" data-offsetend="0 0" data-bgparallax="15">
                                     <div class="tp-caption tp-resizeme small_text top" data-x="right" data-hoffset="['405','405','0','0']" data-y="center" data-voffset="['-152','-152','-152','-152']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text"

@@ -1,5 +1,7 @@
 <body class="fixed-left">
 
+<!-- .header-menu-icons -->
+
         <!-- Loader -->
         <div id="preloader">
             <div id="status">
@@ -12,6 +14,8 @@
                 </div>
             </div>
         </div>
+
+
 
         <!-- Begin page -->
         <div id="wrapper">

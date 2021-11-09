@@ -1,7 +1,8 @@
 <?php
 
-use App\Http\Controllers\admin\AdminController;
+//use App\Http\Controllers\admin\AdminController;
 use Illuminate\Support\Facades\Route;
+use Mcamara\LaravelLocalization\Facades\LaravelLocalization;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,12 +14,24 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-Route::get('/', function () {
-    return view('site.layouts.mastar');
+   Route::group(['prefix' => LaravelLocalization::setLocale(),
+      'middleware' => ['localeSessionRedirect', 'localizationRedirect', 'localeViewPath']],
+       function () {
+       Route::get('/', function () {
+        return view('site.layouts.mastar');
+    });
 });
 
-//Route::get('/admin', AdminController::class , 'index' );
-Route::resource('/admin', AdminController::class );
+
+
+
+
+
+//Route::get('/', function () {
+  //  return view('site.layouts.mastar');
+//});
+
+
+//Route::resource('/admin', AdminController::class );
 
 //Route::get('/dashboard', DashboardController::class , 'index');

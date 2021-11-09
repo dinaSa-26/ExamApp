@@ -41,6 +41,8 @@
             <!-- end page-title-box -->
         </div>
     </div>
+
+
     <!-- end page title -->
 
     <div class="row">
